@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       {/* Will use this space to render and test the problems one by one... */}
-      <Timer />
+      {/* <Timer /> */}
     </>
   );
 }
